@@ -7,7 +7,7 @@
 ```
 git clone <this repo>
 cd <this repo>
-cp .env .env.example
+cp .env.example .env
 pipenv shell
 pipenv install
 cd dagster_starter
