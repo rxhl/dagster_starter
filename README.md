@@ -1,4 +1,4 @@
-# dagster-starter
+# dagster_starter
 
 ## Getting started
 
