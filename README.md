@@ -1,8 +1,8 @@
 # dagster-starter
 
-## 1. Getting started
+## Getting started
 
-### 1.a. Local development
+### Local development
 
 ```
 git clone <this repo>
@@ -15,7 +15,7 @@ pip install -e ".[dev]"
 dagster dev
 ```
 
-### 1.b. First time?
+### Starting from scratch?
 
 ```
 dagster project scaffold --name <my_new_project>
@@ -23,16 +23,11 @@ pip install -e ".[dev]"
 dagster dev
 ```
 
-### 1.c. Tests
+### Tests
 
 ```
 pytest -s dagster_starter_tests
 ```
-
-## Theory
-
-1. There are two components of Dagster - UI and daemon (to run the schedules)
-2. Software-defined asets (SDA) are assets that represent data in your graph (e.g., notebooks, tables, models)
 
 ## References
 
