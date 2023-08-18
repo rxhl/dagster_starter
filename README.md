@@ -1,5 +1,9 @@
 # dagster_starter
 
+![Architecture](/assets/arch.png)
+
+Read the full article [here]().
+
 ## Getting started
 
 ### Local development
